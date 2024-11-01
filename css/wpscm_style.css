@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* button */
+.share-chat-message{ display: block; width: fit-content !important; width: -moz-fit-content  !important; background-color: rgba(0, 0, 0, 0.01); margin: 10px; padding: 10px 20px; border-radius: 25px; border: solid 2px #7ad06d; font-size: 100%; font-weight: normal; text-align: -webkit-center; text-align: center; }
+a.share-chat-message{ color: #777; text-decoration: none !important; font-weight: 400; }
+a.share-chat-message:hover { color: #555; }
+.share-chat-message img{ display: inline-block; width: 24px; height: auto; vertical-align: middle; margin-right: 2px; }
+.share-chat-message p { display: inline-block; margin: 0; line-height: normal; }
